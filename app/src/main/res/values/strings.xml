@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaArquitectura</string>
+    <string name="base_url">http://apirecolecciones.tiii.mx/</string>
+</resources>
